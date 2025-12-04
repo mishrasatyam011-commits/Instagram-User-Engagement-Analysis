@@ -1,1 +1,2 @@
-# Instagram-User-Engagement-Analysis
+A comprehensive analytics project designed to examine Instagram-style social media data and uncover insights that drive growth and performance. The project covers the full analytics lifecycle, including data cleaning, transformation, modeling, SQL-based exploration, and visualization
+The analysis focuses on understanding user engagement, post performance, hashtag effectiveness, ad campaign insights, and influencer identification using SQL, Excel, and PowerBI visualization tools.
